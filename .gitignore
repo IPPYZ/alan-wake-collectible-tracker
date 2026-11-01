@@ -1,0 +1,7 @@
+obj/
+bin/
+*.exe
+*.pdb
+Backups/
+log.txt
+media/

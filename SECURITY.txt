@@ -1,0 +1,38 @@
+Alan Wake Collectible Tracker — Security & Privacy
+Version 2.6.6
+
+WHAT THIS PROGRAM DOES
+  - Reads Alan Wake / American Nightmare save files (config) to count collectibles.
+  - Reads the Steam installation and loginusers.vdf to show account names.
+  - Reads Documents\Remedy\... folders and scans fixed drives for the save signature.
+  - Writes ONLY:
+      * Backups\<game>_<date>.bak next to the EXE (automatic + manual backups)
+      * %APPDATA%\AlanWakeTracker\settings.json (language, last save, filters)
+      * %APPDATA%\AlanWakeTracker\log.txt (only if the app crashes)
+      * export files the user explicitly saves
+  - It NEVER writes to the game save or to the game folder.
+  - It opens NO network connections, sends no telemetry, and has no updater.
+
+UNSIGNED BINARY
+  The EXE is not code-signed. Windows SmartScreen may show
+  "Windows protected your PC" on first run.
+  Continue with: More info  ->  Run anyway.
+
+VERIFY THE DOWNLOAD
+  PowerShell:
+      Get-FileHash .\AlanWakeTracker.exe -Algorithm SHA256
+
+  SHA-256 for this release:
+      929160224BA86BFC01CD4546709A27FFB863858B4B7D6DDC659D23A36427F99F
+
+  ZIP SHA-256 (published with the download):
+      see the release post / Nexus file page.
+
+ANTIVIRUS FALSE POSITIVES
+  Unsigned .NET applications are sometimes flagged heuristically.
+  The complete behaviour is listed above; there is no packing, no obfuscation,
+  no network code and no persistence (no services, no startup entries).
+
+REPORTING A SECURITY ISSUE
+  Contact the author through ippyz.com or the Bugs tab on the download page.
+  Please include the SHA-256 of the file you used.

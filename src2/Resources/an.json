@@ -1,0 +1,903 @@
+[
+ {
+  "cat": "page",
+  "id": 1,
+  "ep": 1,
+  "sk": "rest",
+  "n": "Alan Wake, the Writer",
+  "d": {
+   "en": "Lying on a pile of wood planks, after the canyon.",
+   "ar": "مستلقية على كومة من ألواح خشبية، بعد الوادي الضيق.",
+   "tr": "Kanyondan sonra bir ahşap kalas yığınının üzerinde yatıyor.",
+   "es": "Yace sobre una pila de tablones de madera, tras el cañón.",
+   "zh": "躺在峡谷之后的一堆木板上。",
+   "ru": "Лежит на куче деревянных досок сразу за каньоном.",
+   "de": "Liegt auf einem Stapel Holzbretter hinter der Schlucht.",
+   "fr": "Allongé sur un tas de planches de bois, après le canyon."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 2,
+  "ep": 1,
+  "sk": "rest",
+  "n": "Hunting Mr. Scratch",
+  "d": {
+   "en": "On a oil ring in front of the diner.",
+   "ar": "على حلقة زيتية معدنية أمام المطعم في استراحة الطريق.",
+   "tr": "Lokantanın önünde bir yağ halkasının üzerinde.",
+   "es": "Sobre un anillo de aceite frente al restaurante.",
+   "zh": "在餐馆前的一个油环上。",
+   "ru": "Лежит на нефтяном кольце перед закусочной.",
+   "de": "Auf einem Ölring vor dem Diner.",
+   "fr": "Sur un anneau de pétrole devant le diner."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 3,
+  "ep": 1,
+  "sk": "rest",
+  "n": "Rewriting Reality",
+  "d": {
+   "en": "On a rock in front of the cabin where the CD is found.",
+   "ar": "على صخرة أمام الكوخ الذي يوجد فيه القرص المدمج.",
+   "tr": "CD'nin bulunduğu kulübenin önündeki bir kayanın üzerinde.",
+   "es": "Sobre una roca frente a la cabaña donde se encuentra el CD.",
+   "zh": "在发现 CD 的那间小屋前的一块岩石上。",
+   "ru": "На камне перед хижиной, где находится CD.",
+   "de": "Auf einem Felsen vor der Hütte, in der die CD liegt.",
+   "fr": "Sur un rocher devant la cabane où se trouve le CD."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 4,
+  "ep": 1,
+  "sk": "rest",
+  "n": "The Devil is in the Details",
+  "d": {
+   "en": "Pinned on a fence next to the rails, near the gas station.",
+   "ar": "مثبتة على سياج بجوار القضبان، قرب محطة الوقود.",
+   "tr": "Benzin istasyonunun yakınında, rayların yanındaki bir çite iliştirilmiş.",
+   "es": "Clavada en una valla junto a las vías, cerca de la gasolinera.",
+   "zh": "钉在加油站附近铁轨旁的栅栏上。",
+   "ru": "Прикреплена к забору у рельсов, неподалёку от заправки.",
+   "de": "An einem Zaun neben den Gleisen befestigt, nahe der Tankstelle.",
+   "fr": "Épinglée sur une clôture près des rails, non loin de la station-service."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 5,
+  "ep": 1,
+  "sk": "rest",
+  "n": "The Splitter",
+  "d": {
+   "en": "On a rock behind the trucks parked in front the gas station.",
+   "ar": "على صخرة خلف الشاحنات المتوقفة أمام محطة الوقود.",
+   "tr": "Benzin istasyonunun önünde park etmiş kamyonların arkasındaki bir kayanın üzerinde.",
+   "es": "Sobre una roca detrás de los camiones aparcados frente a la gasolinera.",
+   "zh": "在加油站前停放的卡车后面的一块岩石上。",
+   "ru": "На камне за грузовиками, припаркованными перед заправкой.",
+   "de": "Auf einem Felsen hinter den vor der Tankstelle geparkten Lastwagen.",
+   "fr": "Sur un rocher derrière les camions garés devant la station-service."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 6,
+  "ep": 1,
+  "sk": "rest",
+  "n": "Too Many Legs",
+  "d": {
+   "en": "On a rock behind the diner.",
+   "ar": "على صخرة صغيرة خلف المطعم في استراحة الطريق.",
+   "tr": "Bu sayfa lokantanın arkasındaki kayanın üzerinde duruyor.",
+   "es": "Sobre una roca detrás del restaurante.",
+   "zh": "在餐馆后面的一块岩石上。",
+   "ru": "Страница лежит на камне позади закусочной.",
+   "de": "Auf einem Felsen hinter dem Diner.",
+   "fr": "Sur un rocher derrière le diner."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 7,
+  "ep": 1,
+  "sk": "rest",
+  "n": "The Twisted Mirror",
+  "d": {
+   "en": "Inside one of the rooms of the Desert Shore Motel. This room can only be entered after finding the motel keys in the diner.",
+   "ar": "داخل إحدى غرف موتيل ديزرت شور. لا يمكن دخول هذه الغرفة إلا بعد إيجاد مفاتيح الموتيل في المطعم.",
+   "tr": "Desert Shore Motel'in odalarından birinin içinde. Bu odaya ancak lokantada otel anahtarlarını bulduktan sonra girilebilir.",
+   "es": "Dentro de una de las habitaciones del Desert Shore Motel. Solo se puede entrar tras encontrar las llaves del motel en el restaurante.",
+   "zh": "在 Desert Shore Motel 某间客房内；需先在餐馆找到旅馆钥匙。",
+   "ru": "В одной из комнат мотеля Desert Shore. Войти можно только после того, как найдёте ключи от мотеля в закусочной.",
+   "de": "In einem der Zimmer des Desert Shore Motel. Dieses Zimmer ist nur zugänglich, wenn man die Motelschlüssel im Diner findet.",
+   "fr": "Dans l'une des chambres du Desert Shore Motel. Cette chambre n'est accessible qu'après avoir trouvé les clés du motel au diner."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 8,
+  "ep": 1,
+  "sk": "rest",
+  "n": "New Reality: The Satellite",
+  "d": {
+   "en": "Given by Emma Sloan.",
+   "ar": "تحصل عليها من إيما سلون أثناء وجودك في استراحة الطريق.",
+   "tr": "Bu sayfa Emma Sloan tarafından verilir.",
+   "es": "La página la entrega Emma Sloan.",
+   "zh": "该页由 Emma Sloan 交给艾伦。",
+   "ru": "Эту страницу вам передаёт Emma Sloan.",
+   "de": "Die Seite wird von Emma Sloan übergeben.",
+   "fr": "La page est remise par Emma Sloan."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 9,
+  "ep": 2,
+  "sk": "rest",
+  "n": "The Appearance of Mr. Scratch",
+  "d": {
+   "en": "On a small shed next to the oil derrick.",
+   "ar": "على سقيفة صغيرة بجوار برج النفط في استراحة الطريق.",
+   "tr": "Petrol kulesinin yanındaki küçük bir barakanın üzerinde.",
+   "es": "Sobre un pequeño cobertizo junto a la torre de petróleo.",
+   "zh": "在石油井架旁的一间小棚屋上。",
+   "ru": "На небольшом сарае рядом с нефтяной вышкой.",
+   "de": "Auf einem kleinen Schuppen neben dem Ölförderturm.",
+   "fr": "Sur un petit hangar à côté du derrick."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 10,
+  "ep": 1,
+  "sk": "rest",
+  "n": "Pages and Instincts",
+  "d": {
+   "en": "On a fence behind the Desert Shore Motel's garage.",
+   "ar": "على سياج خلف مرآب موتيل ديزرت شور في استراحة الطريق.",
+   "tr": "Desert Shore Motel'in garajının arkasındaki bir çitte.",
+   "es": "En una valla detrás del garaje del Desert Shore Motel.",
+   "zh": "在 Desert Shore Motel 车库后面的栅栏上。",
+   "ru": "На заборе за гаражом мотеля Desert Shore.",
+   "de": "An einem Zaun hinter der Garage des Desert Shore Motel.",
+   "fr": "Sur une clôture derrière le garage du Desert Shore Motel."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 11,
+  "ep": 2,
+  "sk": "rest",
+  "n": "My Best Friend",
+  "d": {
+   "en": "Lying on the ground next to the portable office outside the oil field.",
+   "ar": "مستلقية على الأرض بجوار المكتب المتنقل خارج حقل النفط.",
+   "tr": "Petrol sahasının dışındaki taşınabilir ofisin yanında yerde yatıyor.",
+   "es": "Yace en el suelo junto a la oficina portátil a las afueras del campo petrolífero.",
+   "zh": "躺在油田外活动办公室旁的地上。",
+   "ru": "Лежит на земле рядом с передвижным офисом за нефтяным полем.",
+   "de": "Liegt auf dem Boden neben dem mobilen Büro außerhalb des Ölfelds.",
+   "fr": "Allongée au sol près du bureau mobile à l'extérieur du champ pétrolifère."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 12,
+  "ep": 2,
+  "sk": "rest",
+  "n": "Wake's Friends",
+  "d": {
+   "en": "On a desk in the motel room in front of the crashed satellite. This room can only be entered after finding the motel keys in the diner.",
+   "ar": "على مكتب في غرفة الموتيل أمام القمر الاصطناعي المحطم. لا يمكن دخول هذه الغرفة إلا بعد إيجاد مفاتيح الموتيل في المطعم.",
+   "tr": "Düşmüş uydunun önündeki motel odasında bir masanın üzerinde. Bu odaya ancak lokantada otel anahtarlarını bulduktan sonra girilebilir.",
+   "es": "Sobre un escritorio en la habitación del motel frente al satélite caído. Solo se entra tras hallar las llaves del motel en el restaurante.",
+   "zh": "在坠毁卫星对面的旅馆房间桌上；需先在餐馆找到旅馆钥匙才能进入。",
+   "ru": "На столе в номере мотеля напротив рухнувшего спутника. Войти можно только найдя ключи от мотеля в закусочной.",
+   "de": "Auf einem Schreibtisch im Motelzimmer gegenüber dem abgestürzten Satelliten. Zugang nur nach Fund der Motelschlüssel im Diner.",
+   "fr": "Sur un bureau de la chambre du motel face au satellite écrasé. On n'y entre qu'après avoir trouvé les clés du motel au diner."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 13,
+  "ep": 2,
+  "sk": "rest",
+  "n": "Night Springs, the Cult TV Show",
+  "d": {
+   "en": "Pinned on the burned RV on the right of the Desert Shore Motel.",
+   "ar": "مثبتة على المركبة الترفيهية المحترقة على يمين موتيل ديزرت شور.",
+   "tr": "Desert Shore Motel'in sağındaki yanmış karavanın üzerine iliştirilmiş.",
+   "es": "Clavada en la autocaravana quemada a la derecha del Desert Shore Motel.",
+   "zh": "钉在 Desert Shore Motel 右侧烧毁的房车上。",
+   "ru": "Прикреплена к сгоревшему автодому справа от мотеля Desert Shore.",
+   "de": "An dem ausgebrannten Wohnmobil rechts vom Desert Shore Motel befestigt.",
+   "fr": "Épinglée sur le camping-car brûlé à droite du Desert Shore Motel."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 14,
+  "ep": 2,
+  "sk": "rest",
+  "n": "Night Springs, Arizona",
+  "d": {
+   "en": "Pinned on a fence below the dilapidated billboard found near the mine entrance.",
+   "ar": "مثبتة على سياج تحت لوحة الإعلانات المتهالكة القريبة من مدخل المنجم.",
+   "tr": "Maden girişinin yakınındaki harap reklam panosunun altındaki bir çite iliştirilmiş.",
+   "es": "Clavada en una valla bajo el cartel en ruinas cerca de la entrada de la mina.",
+   "zh": "钉在矿洞入口附近破旧广告牌下方的栅栏上。",
+   "ru": "Прикреплена к забору под обветшалым щитом у входа в шахту.",
+   "de": "An einem Zaun unter der verfallenen Werbetafel nahe dem Mineneingang.",
+   "fr": "Épinglée sur une clôture sous le panneau délabré près de l'entrée de la mine."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 15,
+  "ep": 2,
+  "sk": "rest",
+  "n": "The Spectre",
+  "d": {
+   "en": "On a plank in front of the sinking Bird Leg Cabin, at the start of the chapter.",
+   "ar": "على لوح خشبي أمام كوخ بيرد ليغ الغارق، في بداية الفصل.",
+   "tr": "Bölümün başında, batan Bird Leg Cabin'in önündeki bir kalasın üzerinde.",
+   "es": "Sobre una tabla frente a la cabaña Bird Leg que se hunde, al inicio del capítulo.",
+   "zh": "在章节开头，正在下沉的 Bird Leg Cabin 前的一块木板上。",
+   "ru": "На доске перед тонущей хижиной Bird Leg Cabin в начале главы.",
+   "de": "Auf einer Diele vor der sinkenden Bird Leg Cabin, zu Beginn des Kapitels.",
+   "fr": "Sur une planche devant la cabane Bird Leg en train de couler, au début du chapitre."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 16,
+  "ep": 2,
+  "sk": "rest",
+  "n": "Emma Sloan",
+  "d": {
+   "en": "On one of the tables outside the diner.",
+   "ar": "على إحدى الطاولات الخارجية أمام المطعم في استراحة الطريق.",
+   "tr": "Lokantanın dışındaki masalardan birinin üzerinde duruyor.",
+   "es": "Sobre una de las mesas del exterior del restaurante.",
+   "zh": "在餐馆外面的一张桌子上。",
+   "ru": "На одном из столиков снаружи закусочной.",
+   "de": "Auf einem der Tische draußen vor dem Diner.",
+   "fr": "Sur l'une des tables à l'extérieur du diner."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 17,
+  "ep": 3,
+  "sk": "rest",
+  "n": "Old Gods of Asgard",
+  "d": {
+   "en": "Pinned on a wooden pallet on the canyon, where the first encounter with the giant takes places.",
+   "ar": "مثبتة على منصة خشبية في الوادي الضيق، حيث يحدث اللقاء الأول مع العملاق.",
+   "tr": "Kanyonda, devle ilk karşılaşmanın yaşandığı yerdeki ahşap bir paletin üzerine iliştirilmiş.",
+   "es": "Clavada en un palé de madera en el cañón, donde ocurre el primer encuentro con el gigante.",
+   "zh": "钉在峡谷中首次遭遇巨人的地方的一块木托盘上。",
+   "ru": "Прикреплена к деревянному поддону в каньоне, где проходит первая встреча с гигантом.",
+   "de": "An einer Holzpalette in der Schlucht befestigt, wo die erste Begegnung mit dem Riesen stattfindet.",
+   "fr": "Épinglée sur une palette en bois dans le canyon, où a lieu la première rencontre avec le géant."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 18,
+  "ep": 3,
+  "sk": "rest",
+  "n": "Barry and the Old Gods",
+  "d": {
+   "en": "Pinned on the fence next to oil field entrance in front of the diner.",
+   "ar": "مثبتة على السياج بجوار مدخل حقل النفط أمام المطعم.",
+   "tr": "Lokantanın önündeki petrol sahası girişinin yanındaki çite iliştirilmiş.",
+   "es": "Clavada en la valla junto a la entrada del campo petrolífero frente al restaurante.",
+   "zh": "钉在餐馆前油田入口旁的栅栏上。",
+   "ru": "Прикреплена к забору у входа на нефтяное поле перед закусочной.",
+   "de": "An dem Zaun neben dem Ölfeldzugang vor dem Diner befestigt.",
+   "fr": "Épinglée sur la clôture près de l'entrée du champ pétrolifère devant le diner."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 19,
+  "ep": 3,
+  "sk": "rest",
+  "n": "Old Gods in the Studio",
+  "d": {
+   "en": "Pinned on the sign of the Desert Shore Motel.",
+   "ar": "مثبتة على لافتة موتيل ديزرت شور في استراحة الطريق.",
+   "tr": "Sayfa, Desert Shore Motel'in tabelasına iliştirilmiş.",
+   "es": "Clavada en el cartel del Desert Shore Motel.",
+   "zh": "钉在 Desert Shore Motel 的招牌上。",
+   "ru": "Прикреплена к вывеске мотеля Desert Shore.",
+   "de": "An dem Schild des Desert Shore Motel befestigt.",
+   "fr": "Épinglée sur l'enseigne du Desert Shore Motel."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 20,
+  "ep": 3,
+  "sk": "rest",
+  "n": "The Giant",
+  "d": {
+   "en": "On a table next to the Desert Shore Motel's pool.",
+   "ar": "على طاولة بجوار مسبح موتيل ديزرت شور في استراحة الطريق.",
+   "tr": "Desert Shore Motel'in havuzunun yanındaki bir masanın üzerinde.",
+   "es": "Sobre una mesa junto a la piscina del Desert Shore Motel.",
+   "zh": "在 Desert Shore Motel 泳池旁的一张桌子上。",
+   "ru": "На столе рядом с бассейном мотеля Desert Shore.",
+   "de": "Auf einem Tisch neben dem Pool des Desert Shore Motel.",
+   "fr": "Sur une table près de la piscine du Desert Shore Motel."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 21,
+  "ep": 3,
+  "sk": "rest",
+  "n": "Emma and Mr. Scratch",
+  "d": {
+   "en": "On the bumper of the caravan found next to the Desert Shore Motel.",
+   "ar": "على مصد المقطورة الموجودة بجوار موتيل ديزرت شور.",
+   "tr": "Desert Shore Motel'in yanında bulunan karavanın tamponunun üzerinde.",
+   "es": "En el parachoques de la caravana junto al Desert Shore Motel.",
+   "zh": "在 Desert Shore Motel 旁的房车保险杠上。",
+   "ru": "На бампере каравана рядом с мотелем Desert Shore.",
+   "de": "Auf der Stoßstange des Wohnwagens neben dem Desert Shore Motel.",
+   "fr": "Sur le pare-chocs de la caravane près du Desert Shore Motel."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 22,
+  "ep": 1,
+  "sk": "obs",
+  "n": "Success",
+  "d": {
+   "en": "On the front bumper of the fire truck located near the Mount Redtooth National Observatory entrance.",
+   "ar": "على المصد الأمامي لشاحنة الإطفاء القريبة من مدخل مرصد جبل ريدتوث الوطني.",
+   "tr": "Mount Redtooth National Observatory girişinin yakınındaki itfaiye aracının ön tamponunda.",
+   "es": "En el parachoques delantero del camión de bomberos cerca de la entrada del Mount Redtooth National Observatory.",
+   "zh": "在 Mount Redtooth 国家天文台入口附近的消防车前保险杠上。",
+   "ru": "На переднем бампере пожарной машины у входа в Mount Redtooth National Observatory.",
+   "de": "Auf der vorderen Stoßstange des Feuerwehrautos nahe dem Eingang des Mount Redtooth National Observatory.",
+   "fr": "Sur le pare-chocs avant du camion de pompiers près de l'entrée du Mount Redtooth National Observatory."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 23,
+  "ep": 1,
+  "sk": "obs",
+  "n": "Pressure",
+  "d": {
+   "en": "On a barrel outside the main observatory.",
+   "ar": "على برميل معدني خارج المبنى الرئيسي للمرصد على الجبل.",
+   "tr": "Ana gözlemevinin dışındaki bir varilin üzerinde.",
+   "es": "Sobre un barril a las afueras del observatorio principal.",
+   "zh": "在主天文台外面的一个桶上。",
+   "ru": "Страница лежит на бочке у главной обсерватории.",
+   "de": "Auf einem Fass draußen vor der Hauptsternwarte.",
+   "fr": "Sur un baril à l'extérieur de l'observatoire principal."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 24,
+  "ep": 1,
+  "sk": "obs",
+  "n": "The Genesis of Mr. Scratch",
+  "d": {
+   "en": "On the ground outside the main storage building.",
+   "ar": "على الأرض خارج مبنى التخزين الرئيسي في المرصد الوطني.",
+   "tr": "Ana depo binasının dışında yerde yatıyor.",
+   "es": "En el suelo a las afueras del edificio de almacenamiento principal.",
+   "zh": "在主仓库外面的地上。",
+   "ru": "На земле снаружи главного складского здания.",
+   "de": "Auf dem Boden draußen vor dem Hauptlagergebäude.",
+   "fr": "Au sol à l'extérieur du bâtiment de stockage principal."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 25,
+  "ep": 1,
+  "sk": "obs",
+  "n": "Fighting the Taken",
+  "d": {
+   "en": "On a concrete barrier in the visitor parking.",
+   "ar": "على حاجز خرساني في موقف الزوار الخاص بالمرصد.",
+   "tr": "Ziyaretçi otoparkındaki bir beton bariyerin üzerinde duruyor.",
+   "es": "Sobre una barrera de hormigón en el aparcamiento de visitantes.",
+   "zh": "在访客停车场的混凝土护栏上。",
+   "ru": "На бетонном ограждении на парковке для посетителей.",
+   "de": "Auf einer Betonbarriere auf dem Besucherparkplatz.",
+   "fr": "Sur une barrière en béton du parking visiteurs."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 26,
+  "ep": 1,
+  "sk": "obs",
+  "n": "The Spiders",
+  "d": {
+   "en": "Next to the container found outside the main observatory.",
+   "ar": "بجوار الحاوية الكبيرة الموجودة خارج المبنى الرئيسي للمرصد.",
+   "tr": "Ana gözlemevinin dışında bulunan konteynerin yanında.",
+   "es": "Junto al contenedor que hay a las afueras del observatorio principal.",
+   "zh": "在主天文台外的集装箱旁边。",
+   "ru": "Рядом с контейнером снаружи главной обсерватории.",
+   "de": "Neben dem Container draußen vor der Hauptsternwarte.",
+   "fr": "À côté du conteneur situé à l'extérieur de l'observatoire principal."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 27,
+  "ep": 1,
+  "sk": "obs",
+  "n": "New Reality: Fragment 1",
+  "d": {
+   "en": "On the printer in the control room of the main observatory. Obtained at the end of the chapter.",
+   "ar": "على الطابعة في غرفة التحكم بالمرصد الرئيسي. تحصل عليها في نهاية الفصل.",
+   "tr": "Ana gözlemevinin kontrol odasındaki yazıcının üzerinde. Bölümün sonunda alınır.",
+   "es": "Sobre la impresora de la sala de control del observatorio principal. Se obtiene al final del capítulo.",
+   "zh": "在主天文台控制室的打印机上；章节结束时获得。",
+   "ru": "На принтере в диспетчерской главной обсерватории. Получается в конце главы.",
+   "de": "Auf dem Drucker im Kontrollraum der Hauptsternwarte. Am Ende des Kapitels erhalten.",
+   "fr": "Sur l'imprimante de la salle de contrôle de l'observatoire principal. Obtenu à la fin du chapitre."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 28,
+  "ep": 2,
+  "sk": "obs",
+  "n": "The Darkness",
+  "d": {
+   "en": "On the edge of the cliff behind the main storage building, near Dr. Rachel Meadow's car.",
+   "ar": "على حافة الجرف خلف مبنى التخزين الرئيسي، قرب سيارة دكتور ميدوز.",
+   "tr": "Ana depo binasının arkasındaki uçurumun kenarında, Dr. Rachel Meadow'ın arabasının yanında.",
+   "es": "En el borde del acantilado tras el edificio de almacenamiento, junto al coche de la Dra. Rachel Meadow.",
+   "zh": "在主仓库后方的悬崖边，靠近 Dr. Rachel Meadow 的车。",
+   "ru": "На краю обрыва за главным складом, рядом с машиной Dr. Rachel Meadow.",
+   "de": "Am Rand der Klippe hinter dem Hauptlager, neben dem Wagen von Dr. Rachel Meadow.",
+   "fr": "Au bord de la falaise derrière le bâtiment de stockage, près de la voiture du Dr Rachel Meadow."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 29,
+  "ep": 2,
+  "sk": "obs",
+  "n": "Lost in the Dark Place",
+  "d": {
+   "en": "On a rock to the left of the north observatory, next to the pipe.",
+   "ar": "على صخرة إلى يسار المرصد الشمالي، بجوار الأنبوب.",
+   "tr": "Kuzey gözlemevinin solundaki, borunun yanındaki bir kayanın üzerinde.",
+   "es": "Sobre una roca a la izquierda del observatorio norte, junto a la tubería.",
+   "zh": "在北天文台左侧、管道旁边的一块岩石上。",
+   "ru": "На камне слева от северной обсерватории, рядом с трубой.",
+   "de": "Auf einem Felsen links der Nordsternwarte, neben der Leitung.",
+   "fr": "Sur un rocher à gauche de l'observatoire nord, près du tuyau."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 30,
+  "ep": 2,
+  "sk": "obs",
+  "n": "The Nature of Stories",
+  "d": {
+   "en": "On the back door of the delivery truck parked outside the main observatory.",
+   "ar": "على الباب الخلفي لشاحنة التوصيل المتوقفة خارج المرصد الرئيسي.",
+   "tr": "Ana gözlemevinin dışında park etmiş teslimat kamyonunun arka kapısında.",
+   "es": "En la puerta trasera del camión de reparto aparcado frente al observatorio principal.",
+   "zh": "在主天文台外停放的送货卡车的后门上。",
+   "ru": "На задней двери грузовика доставки, припаркованного у главной обсерватории.",
+   "de": "An der Hecktür des Lieferwagens, der vor der Hauptsternwarte parkt.",
+   "fr": "Sur la porte arrière du camion de livraison garé devant l'observatoire principal."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 31,
+  "ep": 2,
+  "sk": "obs",
+  "n": "Cosmological Truths",
+  "d": {
+   "en": "On a box outside the main storage building.",
+   "ar": "على صندوق خارج مبنى التخزين الرئيسي في المرصد الوطني.",
+   "tr": "Ana depo binasının dışındaki bir kutunun üzerinde.",
+   "es": "Sobre una caja a las afueras del edificio de almacenamiento principal.",
+   "zh": "在主仓库外面的一个箱子上。",
+   "ru": "На ящике снаружи главного складского здания.",
+   "de": "Auf einer Kiste draußen vor dem Hauptlagergebäude.",
+   "fr": "Sur une caisse à l'extérieur du bâtiment de stockage principal."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 32,
+  "ep": 2,
+  "sk": "obs",
+  "n": "The Taken",
+  "d": {
+   "en": "Pinned on a delivery package found behind the main observatory.",
+   "ar": "مثبتة على طرد توصيل موجود خلف المرصد الرئيسي.",
+   "tr": "Ana gözlemevinin arkasında bulunan bir teslimat paketine iliştirilmiş.",
+   "es": "Clavada en un paquete de reparto encontrado tras el observatorio principal.",
+   "zh": "钉在主天文台后方发现的一个快递包裹上。",
+   "ru": "Прикреплена к посылке, найденной позади главной обсерватории.",
+   "de": "An einem hinter der Hauptsternwarte gefundenen Lieferpaket befestigt.",
+   "fr": "Épinglée sur un colis de livraison trouvé derrière l'observatoire principal."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 33,
+  "ep": 2,
+  "sk": "obs",
+  "n": "Dr. Meadows",
+  "d": {
+   "en": "On a container between the second and third liquid nitrogen tanks.",
+   "ar": "على حاوية بين خزانَي النيتروجين السائل الثاني والثالث.",
+   "tr": "İkinci ve üçüncü sıvı azot tankları arasındaki bir konteynerin üzerinde.",
+   "es": "Sobre un contenedor entre el segundo y el tercer depósito de nitrógeno líquido.",
+   "zh": "在第二个和第三个液氮罐之间的一个容器上。",
+   "ru": "На контейнере между вторым и третьим баками с жидким азотом.",
+   "de": "Auf einem Container zwischen dem zweiten und dritten Stickstofftank.",
+   "fr": "Sur un conteneur entre le deuxième et le troisième réservoir d'azote liquide."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 34,
+  "ep": 2,
+  "sk": "obs",
+  "n": "New Reality: Fragment 2",
+  "d": {
+   "en": "On the printer in the control room of the main observatory. Obtained at the end of the chapter.",
+   "ar": "على الطابعة في غرفة التحكم بالمرصد الرئيسي. تحصل عليها في نهاية الفصل.",
+   "tr": "Ana gözlemevinin kontrol odasındaki yazıcının üzerinde. Bölümün sonunda alınır.",
+   "es": "Sobre la impresora de la sala de control del observatorio principal. Se obtiene al final del capítulo.",
+   "zh": "在主天文台控制室的打印机上；章节结束时获得。",
+   "ru": "На принтере в диспетчерской главной обсерватории. Получается в конце главы.",
+   "de": "Auf dem Drucker im Kontrollraum der Hauptsternwarte. Am Ende des Kapitels erhalten.",
+   "fr": "Sur l'imprimante de la salle de contrôle de l'observatoire principal. Obtenu à la fin du chapitre."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 35,
+  "ep": 3,
+  "sk": "obs",
+  "n": "Everything Is as Real as Everything Else",
+  "d": {
+   "en": "On the concrete cactus planter outside the north observatory.",
+   "ar": "على أصيص الصبار الخرساني خارج مبنى المرصد الشمالي.",
+   "tr": "Kuzey gözlemevinin dışındaki beton kaktüs saksısının üzerinde.",
+   "es": "Sobre el macetero de cactus de hormigón a las afueras del observatorio norte.",
+   "zh": "在北天文台外的混凝土仙人掌花坛上。",
+   "ru": "На бетонной клумбе с кактусами снаружи северной обсерватории.",
+   "de": "Auf dem Beton-Kakteenkübel vor der Nordsternwarte.",
+   "fr": "Sur le bac à cactus en béton à l'extérieur de l'observatoire nord."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 36,
+  "ep": 3,
+  "sk": "obs",
+  "n": "Dr. Meadows and Mr. Scratch",
+  "d": {
+   "en": "On a rock next to the \"Observatory\" sign, near the east observatory.",
+   "ar": "على صخرة بجوار لافتة «المرصد»، قرب المرصد الشرقي.",
+   "tr": "Doğu gözlemevinin yakınında, “Observatory” tabelasının yanındaki bir kayanın üzerinde.",
+   "es": "Sobre una roca junto al cartel «Observatory», cerca del observatorio este.",
+   "zh": "在东天文台附近、“Observatory”标志旁的一块岩石上。",
+   "ru": "На камне рядом с табличкой «Observatory», у восточной обсерватории.",
+   "de": "Auf einem Felsen neben dem Schild „Observatory“, nahe der Oststernwarte.",
+   "fr": "Sur un rocher près du panneau « Observatory », non loin de l'observatoire est."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 37,
+  "ep": 3,
+  "sk": "obs",
+  "n": "New Reality: Fragment 3",
+  "d": {
+   "en": "On the printer in the control room of the main observatory. Obtained at the end of the chapter.",
+   "ar": "على الطابعة في غرفة التحكم بالمرصد الرئيسي. تحصل عليها في نهاية الفصل.",
+   "tr": "Ana gözlemevinin kontrol odasındaki yazıcının üzerinde. Bölümün sonunda alınır.",
+   "es": "Sobre la impresora de la sala de control del observatorio principal. Se obtiene al final del capítulo.",
+   "zh": "在主天文台控制室的打印机上；章节结束时获得。",
+   "ru": "На принтере в диспетчерской главной обсерватории. Получается в конце главы.",
+   "de": "Auf dem Drucker im Kontrollraum der Hauptsternwarte. Am Ende des Kapitels erhalten.",
+   "fr": "Sur l'imprimante de la salle de contrôle de l'observatoire principal. Obtenu à la fin du chapitre."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 38,
+  "ep": 1,
+  "sk": "drive",
+  "n": "Bright Falls",
+  "d": {
+   "en": "Behind the office.",
+   "ar": "خلف مكتب سينما السيارات في الجهة الخلفية للسينما.",
+   "tr": "Bu sayfa ofis binasının hemen arkasında duruyor.",
+   "es": "Se encuentra detrás de la oficina.",
+   "zh": "在办公室建筑物的后面。",
+   "ru": "Эта страница лежит позади офисного здания.",
+   "de": "Die Seite liegt hinter dem Bürogebäude.",
+   "fr": "La page se trouve derrière le bureau."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 39,
+  "ep": 1,
+  "sk": "drive",
+  "n": "Alice",
+  "d": {
+   "en": "On the second safe haven in the Night Springs Light & Power Company generator building.",
+   "ar": "على الملاذ الآمن الثاني في مبنى مولدات شركة نايت سبرينغز للضوء والطاقة.",
+   "tr": "Night Springs Light & Power Company jeneratör binasındaki ikinci güvenli bölgenin üzerinde.",
+   "es": "Sobre el segundo refugio seguro en el edificio del generador de Night Springs Light & Power Company.",
+   "zh": "在 Night Springs 电力公司发电机楼内第二处安全屋上。",
+   "ru": "На втором безопасном убежище в здании генератора Night Springs Light & Power Company.",
+   "de": "Auf dem zweiten sicheren Ort im Generatorgebäude der Night Springs Light & Power Company.",
+   "fr": "Sur le deuxième refuge sûr du bâtiment du générateur de Night Springs Light & Power Company."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 40,
+  "ep": 1,
+  "sk": "drive",
+  "n": "What Really Matters",
+  "d": {
+   "en": "On the trunk of a brown car parked in front of the projection booth.",
+   "ar": "على صندوق سيارة بنية متوقفة أمام كشك العرض.",
+   "tr": "Projeksiyon kabininin önünde park etmiş kahverengi bir arabanın bagajında.",
+   "es": "En el maletero de un coche marrón aparcado frente a la cabina de proyección.",
+   "zh": "在放映室前停着的一辆棕色汽车的后备箱上。",
+   "ru": "На багажнике коричневой машины, припаркованной перед проекционной будкой.",
+   "de": "Auf dem Kofferraum eines braunen Wagens vor der Vorführkabine.",
+   "fr": "Sur le coffre d'une voiture marron garée devant la cabine de projection."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 41,
+  "ep": 1,
+  "sk": "drive",
+  "n": "The Grenadier",
+  "d": {
+   "en": "On a rock next to the Drive-In Theater sign behind Alan's car.",
+   "ar": "على صخرة بجوار لافتة سينما السيارات خلف سيارة آلان.",
+   "tr": "Drive-In Theater tabelasının yanındaki, Alan'ın arabasının arkasındaki kayanın üzerinde.",
+   "es": "Sobre una roca junto al cartel del Drive-In Theater, detrás del coche de Alan.",
+   "zh": "在 Alan 车后方的 Drive-In Theater 招牌旁的一块岩石上。",
+   "ru": "На камне у вывески Drive-In Theater позади машины Alan.",
+   "de": "Auf einem Felsen neben dem Schild des Drive-In Theater, hinter dem Wagen von Alan.",
+   "fr": "Sur un rocher près de l'enseigne du Drive-In Theater, derrière la voiture d'Alan."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 42,
+  "ep": 1,
+  "sk": "drive",
+  "n": "A Car in Flight",
+  "d": {
+   "en": "On a rock near the path leading from the suvenir store to the parking.",
+   "ar": "على صخرة قرب الممر المؤدي من متجر الهدايا التذكارية إلى الموقف.",
+   "tr": "Hediyelik eşya dükkânından otoparka giden yolun yakınındaki bir kayanın üzerinde.",
+   "es": "Sobre una roca cerca del sendero que va de la tienda de recuerdos al aparcamiento.",
+   "zh": "在从纪念品商店通往停车场的路旁的一块岩石上。",
+   "ru": "На камне у тропы, ведущей от сувенирного магазина к парковке.",
+   "de": "Auf einem Felsen am Weg vom Souvenirladen zum Parkplatz.",
+   "fr": "Sur un rocher près du chemin menant de la boutique de souvenirs au parking."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 43,
+  "ep": 2,
+  "sk": "drive",
+  "n": "Survival in the Dark Place",
+  "d": {
+   "en": "On a table in the transformer.",
+   "ar": "على طاولة داخل محول الكهرباء في سينما السيارات.",
+   "tr": "Trafo binasının içindeki bir masanın üzerinde.",
+   "es": "Sobre una mesa en el transformador.",
+   "zh": "在变压器房内的一张桌子上。",
+   "ru": "Страница лежит на столе в трансформаторной будке.",
+   "de": "Auf einem Tisch im Inneren des Trafogebäudes.",
+   "fr": "Sur une table dans le transformateur."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 44,
+  "ep": 2,
+  "sk": "drive",
+  "n": "Equilibrium",
+  "d": {
+   "en": "On the wooden handrail lookout behind near the suvenir shop.",
+   "ar": "على منصة المراقبة ذات الدرابزين الخشبي خلف متجر الهدايا التذكارية.",
+   "tr": "Hediyelik eşya dükkânının yakınındaki ahşap seyir terasının korkuluğunda.",
+   "es": "En la barandilla de madera del mirador cerca de la tienda de recuerdos.",
+   "zh": "在纪念品商店附近木制观景台的栏杆上。",
+   "ru": "На деревянных перилах смотровой площадки рядом с сувенирным магазином.",
+   "de": "Am hölzernen Geländer der Aussichtsplattform nahe dem Souvenirladen.",
+   "fr": "Sur la rambarde en bois du belvédère près de la boutique de souvenirs."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 45,
+  "ep": 2,
+  "sk": "drive",
+  "n": "The Doppelganger",
+  "d": {
+   "en": "Below the projection screen.",
+   "ar": "أسفل شاشة العرض الكبيرة في ساحة سينما السيارات.",
+   "tr": "Projeksiyon perdesinin hemen altında, yerde duruyor.",
+   "es": "Debajo de la pantalla de proyección.",
+   "zh": "在投影银幕下方的地面上。",
+   "ru": "Эта страница лежит под проекционным экраном.",
+   "de": "Die Seite liegt unter der Projektionsleinwand.",
+   "fr": "Elle se trouve sous l'écran de projection."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 46,
+  "ep": 2,
+  "sk": "drive",
+  "n": "Mr. Scratch's Trap",
+  "d": {
+   "en": "In a derelict shed near the edge of a cliff not far from the projection booth.",
+   "ar": "في سقيفة مهجورة قرب حافة الجرف، ليست بعيدة عن كشك العرض.",
+   "tr": "Projeksiyon kabininden çok uzakta olmayan, uçurumun kenarına yakın terk edilmiş bir barakada.",
+   "es": "En un cobertizo abandonado junto al borde de un acantilado, no lejos de la cabina de proyección.",
+   "zh": "在放映室不远处、靠近悬崖边缘的一座废弃棚屋里。",
+   "ru": "В заброшенном сарае у края обрыва, недалеко от проекционной будки.",
+   "de": "In einem verfallenen Schuppen am Rand einer Klippe, unweit der Vorführkabine.",
+   "fr": "Dans un hangar abandonné près du bord d'une falaise, non loin de la cabine de projection."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 47,
+  "ep": 2,
+  "sk": "drive",
+  "n": "The Plan",
+  "d": {
+   "en": "On a rock between the projection booth and the derelict shed and mill.",
+   "ar": "على صخرة بين كشك العرض والسقيفة المهجورة والمطحنة.",
+   "tr": "Projeksiyon kabini ile terk edilmiş baraka ve değirmen arasındaki bir kayanın üzerinde.",
+   "es": "Sobre una roca entre la cabina de proyección y el cobertizo y molino abandonados.",
+   "zh": "在放映室与废弃棚屋和磨坊之间的一块岩石上。",
+   "ru": "На камне между проекционной будкой и заброшенным сараем с мельницей.",
+   "de": "Auf einem Felsen zwischen der Vorführkabine und dem verfallenen Schuppen samt Mühle.",
+   "fr": "Sur un rocher entre la cabine de projection et le hangar et moulin abandonnés."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 48,
+  "ep": 2,
+  "sk": "drive",
+  "n": "The Dangers of Creation",
+  "d": {
+   "en": "On a cloth sack outside the office.",
+   "ar": "على كيس قماشي خارج مكتب سينما السيارات مباشرة.",
+   "tr": "Ofis binasının dışındaki bez bir çuvalın üzerinde.",
+   "es": "Sobre un saco de tela a las afueras de la oficina.",
+   "zh": "在办公室外面的一个布袋上。",
+   "ru": "Страница лежит на тканевом мешке у конторы.",
+   "de": "Auf einem Stoffbeutel draußen vor dem Büro.",
+   "fr": "Sur un sac en tissu à l'extérieur du bureau."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 49,
+  "ep": 2,
+  "sk": "drive",
+  "n": "Serena Valdivia",
+  "d": {
+   "en": "On a wooden pallet inside the generator building, near its entrance.",
+   "ar": "على منصة خشبية داخل مبنى المولدات، قرب مدخله الرئيسي.",
+   "tr": "Jeneratör binasının içinde, girişinin yakınındaki ahşap bir paletin üzerinde.",
+   "es": "Sobre un palé de madera dentro del edificio del generador, junto a su entrada.",
+   "zh": "在发电机大楼内靠近入口的木托盘上。",
+   "ru": "На деревянном поддоне внутри здания генератора, у входа.",
+   "de": "Auf einer Holzpalette im Generatorgebäude, nahe dem Eingang.",
+   "fr": "Sur une palette en bois dans le bâtiment du générateur, près de l'entrée."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 50,
+  "ep": 3,
+  "sk": "drive",
+  "n": "Focusing the Beam",
+  "d": {
+   "en": "On the table in the booth on the right of the parking lot.",
+   "ar": "على الطاولة في الكشك على يمين موقف السيارات.",
+   "tr": "Otoparkın sağındaki kabinin içindeki masanın üzerinde.",
+   "es": "Sobre la mesa de la caseta a la derecha del aparcamiento.",
+   "zh": "在停车场右侧亭子里的一张桌子上。",
+   "ru": "На столе в будке справа от парковки.",
+   "de": "Auf dem Tisch in der Bude rechts vom Parkplatz.",
+   "fr": "Sur la table de la guérite à droite du parking."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 51,
+  "ep": 3,
+  "sk": "drive",
+  "n": "Serena and Mr. Scratch",
+  "d": {
+   "en": "On a rock on the area below the theater parking, near the edge of the cliff.",
+   "ar": "على صخرة في المنطقة أسفل موقف السينما، قرب حافة الجرف.",
+   "tr": "Tiyatro otoparkının altındaki alanda, uçurumun kenarına yakın bir kayanın üzerinde.",
+   "es": "Sobre una roca en la zona bajo el aparcamiento del cine, junto al borde del acantilado.",
+   "zh": "在影院停车场下方区域、靠近悬崖边缘的一块岩石上。",
+   "ru": "На камне на участке под парковкой кинотеатра, у края обрыва.",
+   "de": "Auf einem Felsen auf der Fläche unter dem Kinoparkplatz, nahe der Klippenkante.",
+   "fr": "Sur un rocher dans la zone sous le parking du cinéma, près du bord de la falaise."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 52,
+  "ep": 3,
+  "sk": "drive",
+  "n": "The Clothes",
+  "d": {
+   "en": "Pinned on a cactus to the right of the Drive-In Theater entrance.",
+   "ar": "مثبتة على صبار إلى يمين مدخل سينما السيارات.",
+   "tr": "Drive-In Theater girişinin sağındaki bir kaktüse iliştirilmiş.",
+   "es": "Clavada en un cactus a la derecha de la entrada del Drive-In Theater.",
+   "zh": "钉在 Drive-In Theater 入口右侧的一株仙人掌上。",
+   "ru": "Прикреплена к кактусу справа от входа в Drive-In Theater.",
+   "de": "An einem Kaktus rechts vom Eingang des Drive-In Theater befestigt.",
+   "fr": "Épinglée sur un cactus à droite de l'entrée du Drive-In Theater."
+  }
+ },
+ {
+  "cat": "page",
+  "id": 53,
+  "ep": 3,
+  "sk": "drive",
+  "n": "Alice's Film",
+  "d": {
+   "en": "On a rock in the outcrop in front of the office.",
+   "ar": "على صخرة في النتوء الصخري أمام مكتب سينما السيارات.",
+   "tr": "Ofis binasının önündeki kaya çıkıntısındaki bir kayanın üzerinde.",
+   "es": "Sobre una roca en el afloramiento frente a la oficina.",
+   "zh": "在办公室前方露岩中的一块岩石上。",
+   "ru": "На камне в скальном выступе перед конторой.",
+   "de": "Auf einem Felsen im Felsvorsprung vor dem Büro.",
+   "fr": "Sur un rocher dans l'affleurement devant le bureau."
+  }
+ }
+]

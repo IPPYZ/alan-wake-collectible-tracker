@@ -1,0 +1,44 @@
+Alan Wake Collectible Tracker — Credits
+Version 2.6.6
+
+CREATED BY
+  Khalid Alsahari
+  Website:   https://ippyz.com
+  Instagram: https://www.instagram.com/ippyz
+
+GUIDE TEXT AND LOCATION SCREENSHOTS
+  Pandallax — https://www.pandallax.com/
+  Guides used:
+    Manuscript pages:   /guides/alan-wake---all-manuscript-locations-guide
+    Coffee thermos:     /guides/alan-wake---all-coffee-thermos-locations
+    Supply chests:      /guides/alan-wake---all-supply-chest-locations-guide
+    Can pyramids:       /guides/alan-wake-all-can-pyramid-collectible-locations
+    Radio shows:        /guides/alan-wake-all-radio-collectible-locations
+    TV shows:           /guides/alan-wake-all-tv-show-locations-guide
+    Signs:              /guides/alan-wake---all-sign-locations-guide
+    The Signal:         /guides/alan-wake-the-signal-dlc-100-achievement-trophy-guide
+    The Writer:         /guides/alan-wake-the-writer-dlc-100-achievement-trophy-guide
+  The screenshots are captured from the game and remain © Remedy Entertainment.
+  The guide text was translated and lightly condensed for in-app use.
+
+AMERICAN NIGHTMARE DATA AND IMAGES
+  Alan Wake Fandom wiki — https://alanwake.fandom.com/
+  Manuscript pages (American Nightmare): /wiki/Manuscript_Pages_(Alan_Wake%27s_American_Nightmare)
+
+SAVE LOCATIONS
+  PCGamingWiki — https://www.pcgamingwiki.com/wiki/Alan_Wake
+                 https://www.pcgamingwiki.com/wiki/Alan_Wake%27s_American_Nightmare
+
+UI DIRECTION
+  unslop — https://github.com/heydamir/unslop
+  Created by Damir Sokolovsky (https://x.com/heydamir), licensed CC BY 4.0.
+  Palette, iconography, type scale and spacing were rebuilt with this skill.
+
+GAME CONTENT
+  Alan Wake and Alan Wake's American Nightmare are © Remedy Entertainment.
+  This is an unofficial fan project, not affiliated with Remedy Entertainment,
+  Microsoft, Epic Games, GOG or Valve.
+
+TRADEMARKS
+  Steam is a trademark of Valve Corporation. All other trademarks belong to
+  their respective owners.
